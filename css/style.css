@@ -33,23 +33,11 @@ div.background_top {
 .top_menu .nav {
   background: none;
 }
-/*
-div.pbu_movie_card {
-  width: 400px;
-}
-.pbu_movie_info {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-  padding-top: 24px;
-  padding-bottom: 24px;
-}
 
-.pbu_movie_card_container {
+.nav-flexbox {
+  padding: 15px;
+
   display: flex;
   flex-direction: row;
-  gap: 16px;
-  flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-between;
 }
-*/
